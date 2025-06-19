@@ -17,4 +17,4 @@ It predicts product ratings for users and suggests top items using the SVD algor
   - ...
 
 ### How to Run
-Open `AIML_ASSIGNMENT.ipynb` in Google Colab and run the cells step by step.
+Open `eCommerce_recommendation_system.ipynb` in Google Colab and run the cells step by step.
